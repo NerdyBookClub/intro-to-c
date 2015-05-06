@@ -1,1 +1,1 @@
-# Assignment 1: Learning C
+# Intro to C
