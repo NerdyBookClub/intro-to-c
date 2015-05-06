@@ -29,3 +29,5 @@ You're also going to need a text editor. Any programmer's text editor worth its 
 C source code files have (by convention) the filename extension `.c`. To compile a C source code file, type `$ gcc <FILE>.c`, where `<FILE>` is the name of the source code file.  You can run those compiled binary files by saying `$ ./a.out`.
 
 By default, the compiler will output your executable to a file in the same directory called `a.out`. If you don't want your binary to be called `a.out`, you can use the `-o` option to change the name of the output file. For example, `$ gcc program.c -o program` will compile the source code file `program.c` and output the compiled binary to a file called `program`.
+
+Now that you know how to compile a C program, it's time to try [writing one](https://github.com/NerdyBookClub/intro-to-c/blob/master/assignment1/Assignment%201.md).
