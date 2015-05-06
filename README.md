@@ -1,2 +1,1 @@
-# intro-to-c
-Week 1: Learning C
+# Assignment 1: Learning C
