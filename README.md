@@ -31,3 +31,8 @@ C source code files have (by convention) the filename extension `.c`. To compile
 By default, the compiler will output your executable to a file in the same directory called `a.out`. If you don't want your binary to be called `a.out`, you can use the `-o` option to change the name of the output file. For example, `$ gcc program.c -o program` will compile the source code file `program.c` and output the compiled binary to a file called `program`.
 
 Now that you know how to compile a C program, it's time to try [writing one](https://github.com/NerdyBookClub/intro-to-c/blob/master/assignment1/Assignment%201.md).
+
+What do I do with my code?
+--------------------------
+
+If you'd like to get my advice or feedback on your attempts to complete any of the 'assignments' given here, try [forking](https://help.github.com/articles/fork-a-repo/) this repository and commiting your code to your fork. Put the code for each assignment in that assignment's directory. Don't feel like you have to do this; it's not like I'm grading you or anything. Also, don't feel like you have to complete all of the tasks in each assignment, this is just for fun.
