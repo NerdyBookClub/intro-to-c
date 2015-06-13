@@ -4,10 +4,12 @@ Intro to C
 > "A C program is like a fast dance on a newly waxed dance floor by people carrying razors."
 > &mdash; Waldi Ravens.
 
-So you want to learn C? Congratulations, you 
+So you want to learn C? Congratulations, you're about to journey through one of the simultaneously most beloved and most hated programming languages. C is a challenging language to master – an old adage suggests that it is easy to "shoot one's self in the foot" in C – but it offers a great deal of rewards in the form of speed and efficiency. C is the _lingua franca_ of low-level systems programming, as it allows nearly direct access to the machine; some have called it 'high-level assembly'. Also, C is an important piece of the history of computer programming: the Unix operating system was implemented almost exclusively in C, and many other languages have drawn a great deal of influence from C's design and syntax.
 
 A few notes before we get started
 ---------------------------------
+
+This set of tutorials assumes some amount of prior of experience with basic computer programming. It focuses primarily on teaching C, rather than on teaching programming in general. It shouldn't require a high level of knowledge or experience; but it is not a sufficient introduction to programming in general.
 
 Most of my instructions assume a Unix or Unix-like operating system. If you're on Windows, you will need Cygwin or something similar. Unfortunately, I don't know a great deal about Cygwin, but if you can't figure out how to do something, we can try to puzzle through it together.
 
