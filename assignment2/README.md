@@ -48,6 +48,7 @@ Now is probably a good time to discuss briefly some of the primitive data types 
  + `int`: Signed integer, typically 16 or 32 bits
  + `float`: Floating-point number, typically 32 bits
  + `double`: Double-precision floating-point number
+ + `long double`: This is usually an extended-precision 80-bit floating-point number; although in some C compilers, this is just a synonym for `double`. Generally, you shouldn't use this unless you know you need 80-bit extended precision, since its behaviour depends on the OS and compiler you're using.
  + `short`: Short integer, usually a power of 2 fewer bits than an `int`
  + `long`: Long integer, usually a power of 2 more bits than an `int`
  + `char`: ASCII character, always a single byte.
