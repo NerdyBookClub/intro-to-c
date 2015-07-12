@@ -19,6 +19,8 @@ int a;   // declare the variable 'a'
 a = 10; // set the value of 'a' to 10
 ```
 
+When a number appears directly in the program, this is called a _literal value_ or _literal_. In the above example, we assigned the variable `a` to the literal value `10`.
+
 We can perform arithmetic, such as multiplication, addition, and subtraction, on numeric variables, and assign the results of these operations to numeric variables. For example:
 ```c
 int a, b, c; // declares two separate integer variables named 'a' and 'b'
@@ -28,6 +30,9 @@ b = 10;      // sets the value of 'b' to 10
 
 c = a + b;   // sets the value of 'c' to 15 (5 + 10).
 ```
+
+In the above example, the variables `a` and `b` are assigned to the literal values `5` and `10`, while the variable `c` is assigned to the arithmetic expression `a + b`.
+
 Constants may also be used in arithmetic expressions. For example:
 
 ```c
